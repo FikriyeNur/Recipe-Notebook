@@ -1,0 +1,287 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "title": "Halka Kebabı",
+      "description": "4-5 kişilik | 15 dk hazırlık | 40 dk pişirme",
+      "ingredients": [
+        "500 gram kıyma",
+        "1 çay kaşığı tuz",
+        "Yarım çay kaşığı karabiber",
+        "3 adet patlıcan",
+        "3 adet patates"
+      ],
+      "preparation": "Patlıcanları alacalı soyup dilimleyin. Kıymayı baharatlarla yoğurup halka şeklinde patlıcanlarla dizerek fırında pişirin.",
+      "url": "https://www.nefisyemektarifleri.com/halka-kebabi/",
+      "image": "halka-kebabi.jpeg"
+    },
+    {
+      "id": "2",
+      "title": "Karnıyarık",
+      "description": "4 kişilik | 20 dk hazırlık | 30 dk pişirme",
+      "ingredients": [
+        "6 adet küçük boy patlıcan",
+        "300 gram kıyma",
+        "1 adet soğan",
+        "2 adet domates",
+        "3 adet yeşil biber"
+      ],
+      "preparation": "Patlıcanları kızartıp, kıymalı iç harç ile doldurun. Fırında üzeri kızarana kadar pişirin.",
+      "url": "https://www.nefisyemektarifleri.com/karniyarik/",
+      "image": "karniyarik.jpeg"
+    },
+    {
+      "id": "3",
+      "title": "Tavuklu Sultan Kebabı",
+      "description": "4-6 kişilik | 25 dk hazırlık | 35 dk pişirme",
+      "ingredients": [
+        "2 adet yufka",
+        "400g tavuk göğsü",
+        "1 adet kuru soğan",
+        "1 yemek kaşığı domates salçası"
+      ],
+      "preparation": "Tavuğu ve soğanı soteleyip baharatlarla pişirin. Yufkalara sarıp fırında pişirin.",
+      "url": "https://www.nefisyemektarifleri.com/tavuklu-sultan-kebabi/",
+      "image": "tavuklu-sultan-kebabi.jpeg"
+    },
+    {
+      "id": "4",
+      "title": "Zeytinyağlı Yaprak Sarma",
+      "description": "6-8 kişilik | 30 dk hazırlık | 40 dk pişirme",
+      "ingredients": [
+        "250 gram asma yaprağı",
+        "1 su bardağı pirinç",
+        "2 adet soğan",
+        "Yarım demet maydanoz",
+        "Yarım demet dereotu"
+      ],
+      "preparation": "Pirinci, baharatları ve doğranmış sebzeleri kavurup yapraklara sararak pişirin.",
+      "url": "https://www.nefisyemektarifleri.com/zeytinyagli-yaprak-sarma/",
+      "image": "zeytinyagli-sarma.jpeg"
+    },
+    {
+      "id": "5",
+      "title": "İçli Köfte",
+      "description": "6 kişilik | 40 dk hazırlık | 20 dk pişirme",
+      "ingredients": [
+        "500 gram ince bulgur",
+        "1 su bardağı irmik",
+        "300 gram kıyma",
+        "1 adet soğan"
+      ],
+      "preparation": "Dışı için bulgur hamuru hazırlayın. İç harcı kıymalı olarak pişirin. Köfteleri doldurup kızartın.",
+      "url": "https://www.nefisyemektarifleri.com/icli-kofte/",
+      "image": "icli-kofte.jpeg"
+    },
+    {
+      "id": "6",
+      "title": "Lahmacun",
+      "description": "4 kişilik | 15 dk hazırlık | 10 dk pişirme",
+      "ingredients": [
+        "500 gram un",
+        "250 gram kıyma",
+        "2 adet domates",
+        "1 adet soğan"
+      ],
+      "preparation": "Hamuru açın, kıymalı harcı üzerine yayıp fırında pişirin.",
+      "url": "https://www.nefisyemektarifleri.com/lahmacun/",
+      "image": "lahmacun.jpeg"
+    },
+    {
+      "id": "7",
+      "title": "Kısır",
+      "description": "4 kişilik | 10 dk hazırlık | 30 dk pişirme",
+      "ingredients": [
+        "2 su bardağı ince bulgur",
+        "1 adet salatalık",
+        "1 adet domates",
+        "Yarım demet maydanoz"
+      ],
+      "preparation": "Bulguru sıcak suyla şişirip doğranmış sebzeleri ekleyerek karıştırın.",
+      "url": "https://www.nefisyemektarifleri.com/kisir/",
+      "image": "kisir.jpeg"
+    },
+    {
+      "id": "8",
+      "title": "Mücver",
+      "description": "4-6 kişilik | 15 dk hazırlık | 35 dk pişirme",
+      "ingredients": [
+        "2 adet kabak",
+        "1 adet havuç",
+        "2 adet yumurta",
+        "1 çay bardağı un"
+      ],
+      "preparation": "Sebzeleri rendeleyip yumurta ve unla karıştırarak kızartın.",
+      "url": "https://www.nefisyemektarifleri.com/mucver/",
+      "image": "mucver.jpeg"
+    },
+    {
+      "id": "9",
+      "title": "Kumpir",
+      "description": "4 kişilik | 10 dk hazırlık | 45 dk pişirme",
+      "ingredients": [
+        "4 adet patates",
+        "200 gram kaşar peyniri",
+        "100 gram mısır",
+        "1 adet sosis"
+      ],
+      "preparation": "Patatesleri közleyin, içini ezip malzemelerle karıştırarak doldurun.",
+      "url": "https://www.nefisyemektarifleri.com/kumpir/",
+      "image": "kumpir.jpeg"
+    },
+    {
+      "id": "10",
+      "title": "Menemen",
+      "description": "4 kişilik | 15 dk hazırlık | 30 dk pişirme",
+      "ingredients": [
+        "3 adet domates",
+        "2 adet yeşil biber",
+        "3 adet yumurta",
+        "50 gram beyaz peynir"
+      ],
+      "preparation": "Biberleri kavurup domatesleri ekleyin. Yumurtaları kırıp karıştırın.",
+      "url": "https://www.nefisyemektarifleri.com/menemen/",
+      "image": "menemen.jpeg"
+    },
+    {
+      "id": "11",
+      "title": "Ezogelin Çorbası",
+      "description": "4 kişilik | 10 dk hazırlık | 25 dk pişirme",
+      "ingredients": [
+        "1 su bardağı kırmızı mercimek",
+        "2 yemek kaşığı pirinç",
+        "1 yemek kaşığı bulgur",
+        "1 adet soğan"
+      ],
+      "preparation": "Malzemeleri haşlayıp blenderdan geçirin, tereyağlı sos ekleyin.",
+      "url": "https://www.nefisyemektarifleri.com/ezogelin-corba/",
+      "image": "ezogelin-corbasi.jpeg"
+    },
+    {
+      "id": "12",
+      "title": "Mercimek Köftesi",
+      "description": "4 kişilik | 10 dk hazırlık | 20 dk pişirme",
+      "ingredients": [
+        "1 su bardağı kırmızı mercimek",
+        "1 su bardağı ince bulgur",
+        "1 adet soğan",
+        "Yarım demet maydanoz"
+      ],
+      "preparation": "Mercimeği haşlayıp bulgurlarla yoğurun, şekil verin.",
+      "url": "https://www.nefisyemektarifleri.com/mercimek-koftesi/",
+      "image": "mercimek-koftesi.jpeg"
+    },
+    {
+      "id": "13",
+      "title": "Krep",
+      "description": "4 kişilik | 10 dk hazırlık | 15 dk pişirme",
+      "ingredients": [
+        "2 su bardağı un",
+        "2 adet yumurta",
+        "1 su bardağı süt",
+        "1 çay kaşığı tuz"
+      ],
+      "preparation": "Tüm malzemeleri çırpıp tavada krep gibi pişirin.",
+      "url": "https://www.nefisyemektarifleri.com/akitma/",
+      "image": "krep.jpeg"
+    },
+    {
+      "id": "14",
+      "title": "Havuç Tarator",
+      "description": "6 kişilik | 10 dk hazırlık | 15 dk pişirme",
+      "ingredients": [
+        "3 adet havuç",
+        "2 yemek kaşığı yoğurt",
+        "1 diş sarımsak",
+        "1 yemek kaşığı zeytinyağı"
+      ],
+      "preparation": "Havuçları rendeleyip yoğurt ve sarımsakla karıştırın.",
+      "url": "https://www.nefisyemektarifleri.com/havuc-tarator/",
+      "image": "havuc-tarator.jpeg"
+    },
+    {
+      "id": "15",
+      "title": "Pirinç Pilavı",
+      "description": "4 kişilik | 10 dk hazırlık | 40 dk pişirme",
+      "ingredients": [
+        "2 su bardağı pirinç",
+        "2 yemek kaşığı tereyağı",
+        "3 su bardağı su",
+        "1 çay kaşığı tuz"
+      ],
+      "preparation": "Pirinçleri kavurup su ekleyerek demlenmeye bırakın.",
+      "url": "https://www.nefisyemektarifleri.com/pirinc-pilavi/",
+      "image": "pirinc-pilavi.jpeg"
+    },
+    {
+      "id": "16",
+      "title": "Karnabahar Kızartması",
+      "description": "4 kişilik | 10 dk hazırlık | 40 dk pişirme",
+      "ingredients": [
+        "1 adet küçük karnabahar",
+        "2 adet yumurta",
+        "1 su bardağı un",
+        "Tuz, karabiber"
+      ],
+      "preparation": "Karnabaharı haşlayıp una ve yumurtaya batırarak kızartın.",
+      "url": "https://www.nefisyemektarifleri.com/karnabahar-kizartmasi/",
+      "image": "karnabahar-kizartmasi.jpeg"
+    },
+    {
+      "id": "17",
+      "title": "Şakşuka",
+      "description": "6 kişilik | 15 dk hazırlık | 40 dk pişirme",
+      "ingredients": [
+        "2 adet patlıcan",
+        "2 adet domates",
+        "1 adet yeşil biber",
+        "2 yemek kaşığı sıvı yağ"
+      ],
+      "preparation": "Patlıcanları kızartıp domatesli sos ile karıştırın.",
+      "url": "https://www.nefisyemektarifleri.com/saksuka/",
+      "image": "saksuka.jpeg"
+    },
+    {
+      "id": "18",
+      "title": "Kadınbudu Köfte",
+      "description": "6 kişilik | 15 dk hazırlık | 40 dk pişirme",
+      "ingredients": [
+        "400 gram kıyma",
+        "1 çay bardağı pirinç",
+        "1 adet yumurta",
+        "Tuz, karabiber"
+      ],
+      "preparation": "Kıymayı ve pirinci yoğurup yumurtaya bulayarak kızartın.",
+      "url": "https://www.nefisyemektarifleri.com/kadinbudu-kofte/",
+      "image": "kadinbudu-kofte.jpeg"
+    },
+    {
+      "id": "19",
+      "title": "Revani Tatlısı",
+      "description": "4 kişilik | 15 dk hazırlık | 35 dk pişirme",
+      "ingredients": [
+        "3 adet yumurta",
+        "1 su bardağı un",
+        "1 su bardağı irmik",
+        "1 su bardağı şeker"
+      ],
+      "preparation": "Malzemeleri karıştırıp fırında pişirin, şerbet ekleyin.",
+      "url": "https://www.nefisyemektarifleri.com/revani/",
+      "image": "revani.jpeg"
+    },
+    {
+      "id": "20",
+      "title": "Aşure",
+      "description": "4 kişilik | 15 dk hazırlık | 35 dk pişirme",
+      "ingredients": [
+        "1 su bardağı buğday",
+        "1 su bardağı nohut",
+        "1 su bardağı kuru fasulye",
+        "1 su bardağı kuru üzüm"
+      ],
+      "preparation": "Tüm malzemeleri haşlayarak tatlandırıp servis edin.",
+      "url": "https://www.nefisyemektarifleri.com/asure/",
+      "image": "asure.jpeg"
+    }
+  ]
+}
